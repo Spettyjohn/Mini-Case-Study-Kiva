@@ -1,6 +1,14 @@
 # Mini-Case-Study-Kiva
 This is a mini case study for Kiva Microlending Act 4
 
+## Background
+P2P micro lending platform specializing in low minimum for loan contributions focusing on high social impact.
+Competitors include Pave, Lending Club and Upstart, though they have much higher loan minimum around $1000 and up instead of 25.
+
+## Technology
+Kiva uses a peer to peer market place for users to contribute to the loan.
+They are considered a fintech company because they incorporate several key features like p2p lending combined with low dollar amounts allows for a bigger pool of potential lenders and ability to spread more risk.
+
 ## Strengths
 Kiva is an online platform that allows it to reach a large number of users. It targets low income entrepreurs, farmers and students with smaller loans which are usually easier to repay. 
 The platforms loan repayment rate is 97% (self-reported on their website). This low default rate, combined with low increments for borrowing allows it to attract a large pool of borrowers.
